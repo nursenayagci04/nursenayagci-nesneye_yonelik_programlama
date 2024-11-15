@@ -1,0 +1,14 @@
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\bin\Debug\net8.0\foreachdongusu.exe
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\bin\Debug\net8.0\foreachdongusu.deps.json
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\bin\Debug\net8.0\foreachdongusu.runtimeconfig.json
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\bin\Debug\net8.0\foreachdongusu.dll
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\bin\Debug\net8.0\foreachdongusu.pdb
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\foreachdongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\foreachdongusu.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\foreachdongusu.AssemblyInfo.cs
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\foreachdongusu.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\foreachdongusu.dll
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\refint\foreachdongusu.dll
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\foreachdongusu.pdb
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\foreachdongusu.genruntimeconfig.cache
+C:\Users\90539\source\repos\foreachdongusu\foreachdongusu\obj\Debug\net8.0\ref\foreachdongusu.dll

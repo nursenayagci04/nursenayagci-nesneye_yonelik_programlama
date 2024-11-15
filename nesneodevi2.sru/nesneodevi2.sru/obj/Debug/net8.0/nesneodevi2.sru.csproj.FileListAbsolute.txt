@@ -1,0 +1,14 @@
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\bin\Debug\net8.0\nesneodevi2.sru.exe
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\bin\Debug\net8.0\nesneodevi2.sru.deps.json
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\bin\Debug\net8.0\nesneodevi2.sru.runtimeconfig.json
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\bin\Debug\net8.0\nesneodevi2.sru.dll
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\bin\Debug\net8.0\nesneodevi2.sru.pdb
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\nesneodevi2.sru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\nesneodevi2.sru.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\nesneodevi2.sru.AssemblyInfo.cs
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\nesneodevi2.sru.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\nesneodevi2.sru.dll
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\refint\nesneodevi2.sru.dll
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\nesneodevi2.sru.pdb
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\nesneodevi2.sru.genruntimeconfig.cache
+C:\Users\90539\source\repos\nesneodevi2.sru\nesneodevi2.sru\obj\Debug\net8.0\ref\nesneodevi2.sru.dll

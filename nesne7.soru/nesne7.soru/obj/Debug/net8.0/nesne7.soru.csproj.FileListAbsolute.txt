@@ -1,0 +1,14 @@
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\bin\Debug\net8.0\nesne7.soru.exe
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\bin\Debug\net8.0\nesne7.soru.deps.json
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\bin\Debug\net8.0\nesne7.soru.runtimeconfig.json
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\bin\Debug\net8.0\nesne7.soru.dll
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\bin\Debug\net8.0\nesne7.soru.pdb
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\nesne7.soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\nesne7.soru.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\nesne7.soru.AssemblyInfo.cs
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\nesne7.soru.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\nesne7.soru.dll
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\refint\nesne7.soru.dll
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\nesne7.soru.pdb
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\nesne7.soru.genruntimeconfig.cache
+C:\Users\90539\source\repos\nesne7.soru\nesne7.soru\obj\Debug\net8.0\ref\nesne7.soru.dll

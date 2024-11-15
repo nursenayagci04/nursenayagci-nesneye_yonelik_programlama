@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "nesneodevi6/1.0.0": {
+        "runtime": {
+          "nesneodevi6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nesneodevi6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

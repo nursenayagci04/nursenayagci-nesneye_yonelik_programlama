@@ -1,0 +1,14 @@
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\bin\Debug\net8.0\nesneodevibesincisoru.exe
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\bin\Debug\net8.0\nesneodevibesincisoru.deps.json
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\bin\Debug\net8.0\nesneodevibesincisoru.runtimeconfig.json
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\bin\Debug\net8.0\nesneodevibesincisoru.dll
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\bin\Debug\net8.0\nesneodevibesincisoru.pdb
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\nesneodevibesincisoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\nesneodevibesincisoru.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\nesneodevibesincisoru.AssemblyInfo.cs
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\nesneodevibesincisoru.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\nesneodevibesincisoru.dll
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\refint\nesneodevibesincisoru.dll
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\nesneodevibesincisoru.pdb
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\nesneodevibesincisoru.genruntimeconfig.cache
+C:\Users\90539\source\repos\nesneodevibesincisoru\nesneodevibesincisoru\obj\Debug\net8.0\ref\nesneodevibesincisoru.dll

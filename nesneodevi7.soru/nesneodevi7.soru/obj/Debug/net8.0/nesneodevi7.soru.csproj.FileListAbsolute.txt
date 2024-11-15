@@ -1,0 +1,4 @@
+C:\Users\90539\source\repos\nesneodevi7.soru\nesneodevi7.soru\obj\Debug\net8.0\nesneodevi7.soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\nesneodevi7.soru\nesneodevi7.soru\obj\Debug\net8.0\nesneodevi7.soru.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\nesneodevi7.soru\nesneodevi7.soru\obj\Debug\net8.0\nesneodevi7.soru.AssemblyInfo.cs
+C:\Users\90539\source\repos\nesneodevi7.soru\nesneodevi7.soru\obj\Debug\net8.0\nesneodevi7.soru.csproj.CoreCompileInputs.cache

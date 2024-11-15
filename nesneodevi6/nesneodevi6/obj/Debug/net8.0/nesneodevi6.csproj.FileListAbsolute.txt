@@ -1,0 +1,14 @@
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\bin\Debug\net8.0\nesneodevi6.exe
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\bin\Debug\net8.0\nesneodevi6.deps.json
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\bin\Debug\net8.0\nesneodevi6.runtimeconfig.json
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\bin\Debug\net8.0\nesneodevi6.dll
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\bin\Debug\net8.0\nesneodevi6.pdb
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\nesneodevi6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\nesneodevi6.AssemblyInfoInputs.cache
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\nesneodevi6.AssemblyInfo.cs
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\nesneodevi6.csproj.CoreCompileInputs.cache
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\nesneodevi6.dll
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\refint\nesneodevi6.dll
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\nesneodevi6.pdb
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\nesneodevi6.genruntimeconfig.cache
+C:\Users\90539\source\repos\nesneodevi6\nesneodevi6\obj\Debug\net8.0\ref\nesneodevi6.dll
